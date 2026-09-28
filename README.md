@@ -1,4 +1,4 @@
-# Fingerprinting Homograph Detection Using Shannon Entropy
+# Fingerprinting Composite Homograph Attacks Using Shannon Entropy
 
 The speed of homograph phishing and impersonation campaigns have increased since threat actors can now generate and deploy thousand of Just-in-Time, lookalike domains within seconds. This has outpaced conventional threat intelligence feeds and lexical machine-learning models. The existing system fails to catch freshly registered domains due to its reliance often on surface-level markers, aesthetic modifications, or known blacklists. 
 
