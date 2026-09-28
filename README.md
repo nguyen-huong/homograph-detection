@@ -1,4 +1,4 @@
-# Fingerprinting Composite Homograph Attacks Using Shannon Entropy and Log Loss Transformation
+# Footprinting Composite Homograph Attacks Using Shannon Entropy and Log Loss Transformation
 
 The speed of homograph phishing and impersonation campaigns have increased since threat actors can now generate and deploy thousand of Just-in-Time, lookalike domains within seconds. This has outpaced conventional threat intelligence feeds and lexical machine-learning models. The existing system fails to catch freshly registered domains due to its reliance often on surface-level markers, aesthetic modifications, or known blacklists. 
 
@@ -7,7 +7,7 @@ This work presents a structural based approach in detecting composite homograph 
 ## Citations
 ```
 @article{nguyen2026shannon,
-  title   = {Mechanism-Aware Homograph Detection Using Shannon Entropy},
+  title   = {Footprinting Composite Homograph Attacks Using Shannon Entropy and Log Loss Transformation},
   author  = {Nguyen, Huong, Vy Nguyen, Adolfo J. Rumbos},
   journal = {Women in Cybersecurity 2026-2027},
   year    = {2026}
