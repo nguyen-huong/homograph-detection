@@ -13,3 +13,8 @@ This work presents a structural based approach in detecting composite homograph 
   year    = {2026}
 }
 ```
+# Acknowledgements
+Homograph and real domains are sourced from [Glyphnet](https://github.com/Akshat4112/Glyphnet/tree/master)
+
+# License
+Released under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
