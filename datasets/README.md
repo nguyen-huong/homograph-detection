@@ -13,7 +13,7 @@ python dataGeneration.py --path_data ../data
 ## Results: 
 - Accuracy 96%
 - Precision 92%
-- Recall 98%
+- Recall 99%
 - F1 96%
 
 ## Citations
