@@ -8,6 +8,7 @@ from glyph_match import nearest_domain
 
 tests = ()
 real = ()
+unseen = ()
 
 def script_bucket(char):
     if ord(char) < 128:
