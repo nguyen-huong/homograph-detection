@@ -1,4 +1,5 @@
 # Data Generation
+All code provided and cited by Glyphnet
 
 # Methods: 
 ```
