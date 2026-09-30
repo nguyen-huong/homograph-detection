@@ -59,7 +59,7 @@ def transformation_rarity(string):
     for char in string:
         bucket = script_bucket(char)
         p = p_script(bucket)
-        rarity += -log(p, 2) / total_elements
+        rarity += -log(p, 2)
     return rarity
 
 def keyboard_neighbors():
