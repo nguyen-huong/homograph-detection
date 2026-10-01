@@ -4,7 +4,7 @@
 import unicodedata
 from urllib.parse import urlsplit
 from math import log
-from glyph_match import nearest_domain
+from glyph_match import visual_skeleton
 
 tests = ()
 real = ()
