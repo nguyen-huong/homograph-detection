@@ -60,7 +60,7 @@ def main():
                     if not url:
                         stats['skipped'] += 1
                         continue
-                    entropy, script_entropy, rarity, _, _, _, nonascii_count, nonascii_ratio = analyze_url(url)
+                    levenshtein, entropy, script_entropy, rarity, _, _, _, nonascii_count, nonascii_ratio = analyze_url(url)
                     counts['original'][original_family] += 1
                     counts['normalized'][normalized_family] += 1
                     counts['mechanism'][mechanism] += 1
@@ -70,6 +70,7 @@ def main():
                         'original_family': original_family,
                         'normalized_family': normalized_family,
                         'mechanism': mechanism,
+                        'levenshtein': levenshtein,
                         'entropy': f"{entropy:.6f}",
                         'script_entropy': f"{script_entropy:.6f}",
                         'rarity': f"{rarity:.6f}",
