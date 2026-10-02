@@ -8,8 +8,8 @@ This work presents a structural based approach in detecting composite homograph 
 ```
 @article{nguyen2026shannon,
   title   = {Fingerprinting Composite Homograph Attacks Using Shannon Entropy and Log Loss Transformation},
-  author  = {Nguyen, Huong, Vy Nguyen, Adolfo J. Rumbos},
-  journal = {Women in Cybersecurity 2026-2027},
+  author  = {H. Nguyen, T. Nguyen, A. Rumbos},
+  journal = {Women in Cybersecurity Abstract},
   year    = {2026}
 }
 ```
